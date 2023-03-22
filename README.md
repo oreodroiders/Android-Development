@@ -12,7 +12,7 @@ The project aims  to provide high Quality resources and roadmaps  regarding Andr
 - <b>Modify existing guides.</b>
    We encourage you to fix, enhance and add more resources to the existing guides. Feel free to submit a PR if you decide to do so.
 
-
+- You can refer this article for reference [Here](https://github.com/oreodroiders/Android-Development/blob/64d54d71b6546226ba595a775e36bba020c24669/Flutter/Resources/create_flutter_project.md)
 - We're excited to see what you add to this project :)
 
 ## Feedback
