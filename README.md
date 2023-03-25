@@ -15,6 +15,9 @@ The project aims  to provide high Quality resources and roadmaps  regarding Andr
 - You can refer this article for reference [Here](https://github.com/oreodroiders/Android-Development/blob/64d54d71b6546226ba595a775e36bba020c24669/Flutter/Resources/create_flutter_project.md)
 - We're excited to see what you add to this project :)
 
+
+- We also accept no-code contributions : You can Improve the documentations of our repo ; we would be glad :) to merge your PR
+
 ## Feedback
 
 - If you have any feedback (including issues or feature requests), feel free to leave it in the [issues](https://github.com/oreodroiders/Android-Development/issues) section by clicking the `new issue` button
