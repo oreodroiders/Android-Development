@@ -50,4 +50,4 @@
  - Then select the emulator you want to use and click "OK" to run your app on the emulator.
 
 ## Conclusion
-Setting up your Android development environment on a Windows system can be a bit tricky, but it is essential if you want to develop Android apps. By following the steps outlined in this article, you should be able to set up your Android development environment and start developing Android apps in no time. Good luck! 
+Setting up your Android development environment on a Windows system can be a bit tricky, but it is essential if you want to develop Android apps. By following the steps outlined in this article, you should be able to set up your Android development environment and start developing Android apps in no time. Good luck!! 
