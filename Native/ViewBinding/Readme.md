@@ -15,6 +15,7 @@ View binding is a feature introduced in Android Studio 3.6 that simplifies the p
 
 3) In your layout file, add the <layout> tag as the root element. For example:
 
+```
 <layout xmlns:android="http://schemas.android.com/apk/res/android">
     <LinearLayout
         android:id="@+id/container"
@@ -29,7 +30,8 @@ View binding is a feature introduced in Android Studio 3.6 that simplifies the p
 
     </LinearLayout>
 </layout>
-  
+```
+ 
 4) Build your project to generate the binding class. The class name will be based on the name of your layout file, in PascalCase format, suffixed with the word "Binding". For example, if your layout file is named activity_main.xml, the generated class will be named ActivityMainBinding.
 
 5) In your activity or fragment, inflate the layout and obtain an instance of the binding class using the static inflate() method. For example:
