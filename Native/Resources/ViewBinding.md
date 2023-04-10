@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
         
         // Access views using binding
         binding.title.text = "Hello World!"
+ 
     }
 }
 ```
