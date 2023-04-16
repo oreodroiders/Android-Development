@@ -21,3 +21,11 @@ The project aims  to provide high Quality resources and roadmaps  regarding Andr
 ## Feedback
 
 - If you have any feedback (including issues or feature requests), feel free to leave it in the [issues](https://github.com/oreodroiders/Android-Development/issues) section by clicking the `new issue` button
+
+
+
+## Thanks to all the contributors ❤️
+
+<a href="https://github.com/oreodroiders/Android-Development/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=oreodroiders/Android-Development" />
+</a>
