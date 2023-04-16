@@ -18,6 +18,15 @@ The project aims  to provide high Quality resources and roadmaps  regarding Andr
 
 - We also accept no-code contributions : You can Improve the documentations of our repo ; we would be glad :) to merge your PR
 
+
+## Learn In Public
+
+Learning in public is very important so you can create PR's to this repo by:
+- cloning the repo. 
+- create {YourName} folder inside the [Learn in Public ](https://github.com/dev-divyansh/Android-Development/tree/main/Learn-In-Public) directory .
+- In that folder you create a file for each day , sharing your learnings .
+- Add in detail what you have learnt so that others can be motivated as well
+
 ## Feedback
 
 - If you have any feedback (including issues or feature requests), feel free to leave it in the [issues](https://github.com/oreodroiders/Android-Development/issues) section by clicking the `new issue` button
