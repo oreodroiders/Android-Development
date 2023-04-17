@@ -46,15 +46,16 @@ Once you have learned the basics of Java or Kotlin, Android fundamentals, Archit
 # Step 7: Publish Your App to Google Play Store
 After building and testing your app, you can publish it on the Google Play Store. Before publishing, make sure to follow the guidelines provided by Google to avoid any rejection or violation of policies.
 ### Resources:
-```
+
 https://developer.android.com/distribute/console
-```
+
 # Conclusion
 Learning native Android app development takes time and effort, but the rewards are great. This roadmap should help you get started on your journey to becoming an Android developer. Remember to keep practicing and experimenting, and don't be afraid to ask for help or guidance when you need it. Good luck!
 
 # Some Suggested Resources:
 
 1)https://www.udemy.com/course/android-app-development-with-kotlin-beginner-to-advanced/
+
 2)https://www.youtube.com/watch?v=AhUL5tHF3uc
 
 
