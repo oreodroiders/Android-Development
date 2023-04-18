@@ -1,9 +1,11 @@
 
 
-## Welcome Developer ;
+## Welcome Developer:
 
-### In this folder you can write articles on some of the best resources regarding Flutter Development .
+### In this folder you can write an articles on some of the best resources regarding Flutter Development.
 
+### We will be happy to merge your PR.
+=======
 ## How to contribute to this project
 
 - You can simply fork [this project](https://github.com/oreodroiders/Android-Development/) and start contributing. We'll be happy to review and merge your PRs. 
@@ -21,3 +23,4 @@
 ## Feedback
 
 - If you have any feedback (including issues or feature requests), feel free to leave it in the [issues](https://github.com/oreodroiders/Android-Development/issues) section by clicking the `new issue` button
+
