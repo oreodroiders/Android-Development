@@ -8,6 +8,25 @@ The project aims  to provide high Quality resources and roadmaps  regarding Andr
 
 - [Setup Your Android Environment](https://github.com/dev-divyansh/Android-Development/blob/main/Native/Resources/setup_env_android.md)
 
+## Android OpenSource Project
+
+### Welcome to the Android Open Source Project Collaboration !!
+##### Some Listed OpenSource Project's
+
+- [DrawOn](https://github.com/dev-divyansh/Android-Development/blob/main/Open-Source-Projects/DrawOn.md)
+
+ This is a place where Android developers can share their open source projects and collaborate with others in the community.
+Add your OpenSource Android Project [Here](https://github.com/dev-divyansh/Android-Development/tree/main/Open-Source-Projects)
+
+## Learn In Public
+
+Learning in public is very important so you can create PR's to this repo by:
+- cloning the repo. 
+- create {YourName} folder inside the [Learn in Public ](https://github.com/dev-divyansh/Android-Development/tree/main/Learn-In-Public) directory .
+- In that folder you create a file for each day , sharing your learnings .
+- Add in detail what you have learnt so that others can be motivated as well.
+
+
 ## How to contribute to this project
 
 - You can simply fork [this project](https://github.com/oreodroiders/Android-Development/) and start contributing. We'll be happy to review and merge your PRs. 
@@ -26,13 +45,7 @@ The project aims  to provide high Quality resources and roadmaps  regarding Andr
 - We also accept no-code contributions : You can Improve the documentations of our repo ; we would be glad :) to merge your PR
 
 
-## Learn In Public
 
-Learning in public is very important so you can create PR's to this repo by:
-- cloning the repo. 
-- create {YourName} folder inside the [Learn in Public ](https://github.com/dev-divyansh/Android-Development/tree/main/Learn-In-Public) directory .
-- In that folder you create a file for each day , sharing your learnings .
-- Add in detail what you have learnt so that others can be motivated as well
 
 ## Feedback
 
