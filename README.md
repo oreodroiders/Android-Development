@@ -1,6 +1,13 @@
 # Android-Dev-Resources
 The project aims  to provide high Quality resources and roadmaps  regarding Android Development under roof in  easy to consume manner .
 
+## Resources to start your Android Journey
+- [Beginner Roadmap for Native Android Development](https://github.com/dev-divyansh/Android-Development/blob/55aede09190ece8f7d3acdc4e244ab8102cbf9fb/Native/Resources/RoadMap%20on%20Native%20Android%20Development.md)
+
+- [Learning Resources for Beginners](https://github.com/dev-divyansh/Android-Development/blob/main/Native/Resources/Resources%20for%20Beginners.md)
+
+- [Setup Your Android Environment](https://github.com/dev-divyansh/Android-Development/blob/main/Native/Resources/setup_env_android.md)
+
 ## How to contribute to this project
 
 - You can simply fork [this project](https://github.com/oreodroiders/Android-Development/) and start contributing. We'll be happy to review and merge your PRs. 
