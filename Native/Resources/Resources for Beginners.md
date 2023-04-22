@@ -10,7 +10,7 @@
 
 ## Youtube Channel's to Follow for Android
 
-1. _[PhilippLackner](https://www.youtube.com/@PhilippLackner)
-2. _[Android Developers Channel](https://www.youtube.com/@AndroidDevelopers)
-3. _[FoxAndroid](https://www.youtube.com/@_foxandroid)
-4. _[CWN](https://www.youtube.com/@cwn/)
+1. [PhilippLackner](https://www.youtube.com/@PhilippLackner)
+2. [Android Developers Channel](https://www.youtube.com/@AndroidDevelopers)
+3. [FoxAndroid](https://www.youtube.com/@_foxandroid)
+4. [CWN](https://www.youtube.com/@cwn/)
